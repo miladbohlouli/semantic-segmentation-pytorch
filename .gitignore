@@ -11,3 +11,7 @@ ADE_val*.jpg
 ADE_val*.png
 
 .idea/
+env/
+.DS_*
+
+*/.DS_
